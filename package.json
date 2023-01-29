@@ -13,6 +13,7 @@
         ":ignoreModulesAndTests",
         ":label(renovate)",
         ":maintainLockFilesMonthly",
+        ":disableDependencyDashboard",
         ":rebaseStalePrs",
         ":timezone(Asia/Tokyo)",
         "group:allNonMajor",
